@@ -1,0 +1,85 @@
+{
+  "images": {
+    "hero": "/images/hero.jpg",
+    "vision": "/images/vision.jpg",
+    "aurelia": "/images/aurelia.jpg",
+    "aurora": "/images/aurora.jpg",
+    "noir": "/images/noir.jpg",
+    "ember": "/images/ember.jpg",
+    "cove": "/images/cove.jpg",
+    "why": "/images/why.jpg",
+    "testimonialBg": "/images/testimonial-bg.jpg"
+  },
+  "properties": [
+    {
+      "name": "Aurelia Residence",
+      "location": "Lekki Phase 1, Lagos",
+      "price": "\u20a6485M",
+      "meta": "5 Beds \u2022 6 Baths \u2022 720 sqm",
+      "image": "/images/aurelia.jpg",
+      "featured": true
+    },
+    {
+      "name": "Aurora Residence",
+      "location": "Banana Island, Ikoyi",
+      "price": "\u20a6620M",
+      "meta": "4 Beds \u2022 5 Baths",
+      "image": "/images/aurora.jpg"
+    },
+    {
+      "name": "Noir Residence",
+      "location": "Eko Atlantic, Lagos",
+      "price": "\u20a6540M",
+      "meta": "4 Beds \u2022 5 Baths",
+      "image": "/images/noir.jpg"
+    },
+    {
+      "name": "Ember Residence",
+      "location": "Maitama, Abuja",
+      "price": "\u20a6410M",
+      "meta": "5 Beds \u2022 5 Baths",
+      "image": "/images/ember.jpg"
+    },
+    {
+      "name": "Cove Residence",
+      "location": "Asokoro, Abuja",
+      "price": "\u20a6395M",
+      "meta": "4 Beds \u2022 4 Baths",
+      "image": "/images/cove.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What makes Haven different?",
+      "a": "We design for light, air, and quiet. Every home is site-specific, built with honest materials, and delivered with a 2-year concierge handover. No catalogue homes."
+    },
+    {
+      "q": "Can I customize my home?",
+      "a": "Yes. From layout to finishes, our architecture studio works with you. 70% of our clients personalize kitchens, lighting, and landscaping."
+    },
+    {
+      "q": "How do I schedule a private tour?",
+      "a": "Tap Book a Tour, choose Lekki or Abuja, and pick a slot. Tours are 45 mins, private, with your dedicated advisor."
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "a seamless experience from design to move-in day.",
+      "name": "Sarah Mitchell",
+      "role": "Aurelia Residence, Lekki",
+      "img": "/images/testimonial-1.jpg"
+    },
+    {
+      "text": "thoughtful, calm, and exactly what we wanted.",
+      "name": "Tunde Adebayo",
+      "role": "Noir Residence, Eko Atlantic",
+      "img": "/images/testimonial-2.jpg"
+    },
+    {
+      "text": "the quality speaks for itself. worth every naira.",
+      "name": "Amara Okoro",
+      "role": "Cove Residence, Asokoro",
+      "img": "/images/testimonial-3.jpg"
+    }
+  ]
+}
