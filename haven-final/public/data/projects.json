@@ -1,14 +1,14 @@
 {
   "images": {
-    "hero": "/images/hero.jpg",
+    "hero": "/images/hero.webp",
     "vision": "/images/vision.jpg",
-    "aurelia": "/images/aurelia.jpg",
-    "aurora": "/images/aurora.jpg",
-    "noir": "/images/noir.jpg",
-    "ember": "/images/ember.jpg",
-    "cove": "/images/cove.jpg",
-    "why": "/images/why.jpg",
-    "testimonialBg": "/images/testimonial-bg.jpg"
+    "aurelia": "/images/aurelia.webp",
+    "aurora": "/images/aurora.webp",
+    "noir": "/images/noir.webp",
+    "ember": "/images/ember.webp",
+    "cove": "/images/cove.webp",
+    "why": "/images/why.webp",
+    "testimonialBg": "/images/testimonial-bg.webp"
   },
   "properties": [
     {
@@ -16,7 +16,7 @@
       "location": "Lekki Phase 1, Lagos",
       "price": "\u20a6485M",
       "meta": "5 Beds \u2022 6 Baths \u2022 720 sqm",
-      "image": "/images/aurelia.jpg",
+      "image": "/images/aurelia.webp",
       "featured": true
     },
     {
@@ -24,28 +24,28 @@
       "location": "Banana Island, Ikoyi",
       "price": "\u20a6620M",
       "meta": "4 Beds \u2022 5 Baths",
-      "image": "/images/aurora.jpg"
+      "image": "/images/aurora.webp"
     },
     {
       "name": "Noir Residence",
       "location": "Eko Atlantic, Lagos",
       "price": "\u20a6540M",
       "meta": "4 Beds \u2022 5 Baths",
-      "image": "/images/noir.jpg"
+      "image": "/images/noir.webp"
     },
     {
       "name": "Ember Residence",
       "location": "Maitama, Abuja",
       "price": "\u20a6410M",
       "meta": "5 Beds \u2022 5 Baths",
-      "image": "/images/ember.jpg"
+      "image": "/images/ember.webp"
     },
     {
       "name": "Cove Residence",
       "location": "Asokoro, Abuja",
       "price": "\u20a6395M",
       "meta": "4 Beds \u2022 4 Baths",
-      "image": "/images/cove.jpg"
+      "image": "/images/cove.webp"
     }
   ],
   "faqs": [
